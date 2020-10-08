@@ -4,6 +4,20 @@
 
 [1]: https://www.npmjs.com/package/nodejs-storage?activeTab=versions
 
+## [5.4.0](https://www.github.com/googleapis/nodejs-storage/compare/v5.3.0...v5.4.0) (2020-10-08)
+
+
+### Features
+
+* add custom time field in metadata sample ([#1285](https://www.github.com/googleapis/nodejs-storage/issues/1285)) ([9e3474f](https://www.github.com/googleapis/nodejs-storage/commit/9e3474f87dabd300d914c0f44f49a13dae34227d))
+
+
+### Bug Fixes
+
+* **deps:** update dependency duplexify to v4 ([#1302](https://www.github.com/googleapis/nodejs-storage/issues/1302)) ([1ce3d89](https://www.github.com/googleapis/nodejs-storage/commit/1ce3d895b3f5d12776f0634b41b1baef7aa4491c))
+* **deps:** update dependency yargs to v16 ([#1289](https://www.github.com/googleapis/nodejs-storage/issues/1289)) ([12f2133](https://www.github.com/googleapis/nodejs-storage/commit/12f2133b7e3ec9612b3694d93b9ff756cb1bbd66))
+* **types:** add `CreateBucketRequest.storageClass` ([#1299](https://www.github.com/googleapis/nodejs-storage/issues/1299)) ([d854c26](https://www.github.com/googleapis/nodejs-storage/commit/d854c2609eb87886a010e726daa5f1339ee9ea38)), closes [#1248](https://www.github.com/googleapis/nodejs-storage/issues/1248)
+
 ## [5.3.0](https://www.github.com/googleapis/nodejs-storage/compare/v5.2.0...v5.3.0) (2020-08-24)
 
 
